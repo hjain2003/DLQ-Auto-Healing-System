@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-A production-grade Dead Letter Queue (DLQ) processing system on AWS that **classifies**, **recovers**, **alerts**, and **archives** failed messages with full observability.
+A production-grade DLQ (Dead Letter Queue) processing system on AWS that **classifies**, **recovers**, **alerts**, and **archives** failed messages with full observability.
 
 ---
 
